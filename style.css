@@ -1,0 +1,22 @@
+body{
+    background-image: url('../Asset/coffee.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+
+}
+
+h1{
+    color: blue;
+    font-family: Verdana;
+    font-size: 300%;
+}
+
+p{
+    color: red;
+    font-family: courier;
+    font-size: 160%;
+    border: solid 2px red;
+    padding: 30px;
+    margin: 50px;
+}
